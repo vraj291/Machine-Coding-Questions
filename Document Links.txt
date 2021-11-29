@@ -1,4 +1,4 @@
-Github Repo ==> https://github.com/kumaransg/LLD
+Github Repo ==> https://github.com/kumaransg/LLD, https://github.com/prasadgujar/low-level-design-primer
 
 Expense Tracker, Library, Parking Lot, Snake and Ladders, Tic Tac Toe, Trello ==> Work at Tech
 FoodKart ==> https://docs.google.com/document/d/1Bmkz9omByHqVvwU45cvkBRSwJAPKw9yaDsRlEnCg_lg

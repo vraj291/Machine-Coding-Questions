@@ -1,0 +1,11 @@
+RegisterUser name Vraj, gender M, phoneNo 124
+RegisterUser name qwerty, gender M, phoneNo 1254
+LoginUser 1
+ListProperty title A 2BHK for Sale, location Bellandur, price 40k, type sell, size 1800sqft, rooms 2BHK, nearby marathahalli/akota
+ListProperty title A 3BHK for Sale, location Akota, price 90L, type rent, size 1300sqft, rooms 3BHK, nearby marathahalli/akota
+SearchProperty location marathahalli
+ShortlistProperty 1
+ViewShortlistedProperties
+ViewListedProperties
+SellProperty property 1, buyer 2, price 80k
+ViewListedProperties
